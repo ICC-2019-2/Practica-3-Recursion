@@ -14,7 +14,7 @@ con la única diferencia de que no pueden usar **while**, **do** ... **while** n
 
 Una vez que hayan terminado su clase, además de que debe de pasar todas sus
 pruebas unitarias, debe ejecutar correctamente el programa escrito en la clase
-[Practica3](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica2/blob/master/src/main/java/mx/unam/ciencias/icc/Practica3.java).
+[Practica3](https://aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica3/blob/master/src/main/java/mx/unam/ciencias/icc/Practica3.java).
 
 Los únicos archivos que deben modificar son
 
